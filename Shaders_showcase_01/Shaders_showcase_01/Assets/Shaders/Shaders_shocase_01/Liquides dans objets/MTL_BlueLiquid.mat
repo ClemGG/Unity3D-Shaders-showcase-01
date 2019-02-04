@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MTL_BlueLiquid
+  m_Shader: {fileID: 4800000, guid: d9de1e67daa8b8c42a6a8a6214f3f1af, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _FillAmount: 0.7
+    - _Rim: 0.045
+    - _RimPower: 0
+    - _WobbleX: 0
+    - _WobbleZ: 0
+    m_Colors:
+    - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0, g: 0.22702825, b: 0.8897059, a: 1}
+    - _Tint: {r: 0.08023355, g: 0.17184994, b: 0.7794118, a: 1}
+    - _TopColor: {r: 1, g: 1, b: 1, a: 1}

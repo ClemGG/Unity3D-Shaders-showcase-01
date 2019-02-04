@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5502c40388a55244f9d0c343317043a4
+timeCreated: 1523094817
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BlurMaterial: {fileID: 2100000, guid: 9484c7171e8bbd345a85837b078ebd1e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
